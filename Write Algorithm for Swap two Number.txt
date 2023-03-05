@@ -1,0 +1,11 @@
+Following is the algorithm we shall use to swap the given two numbers using a third variable.
+
+Start.
+Read a number in num1.
+Read a number in num2.
+Declare a variable temp.
+Assign temp with num1.
+Assign num1 with num2.
+Assign num2 with temp.
+Print num1 and num2.
+Stop.
